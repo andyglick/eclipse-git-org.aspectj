@@ -23,7 +23,7 @@
 		<!-- Dependency versions -->
 		<jdt.core.version>1.9.9.1</jdt.core.version>
 		<asm.version>9.2</asm.version>
-		<lib.ant.version>1.6.3</lib.ant.version>
+		<lib.ant.version>1.6.5</lib.ant.version>
 		<lib.ant.xerces.version>2.6.2</lib.ant.xerces.version>
 		<lib.regexp.version>1.2</lib.regexp.version>
 		<lib.commons.beanutils.version>1.4</lib.commons.beanutils.version>
